@@ -1,4 +1,4 @@
-# GitHub Actions Fundamentals Workshop
+# GitHub Actions Fundamentals Workshop DevOpsCon2023
 
 Repo for the `GitHub Actions Fundamentals` training.
 
